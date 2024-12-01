@@ -1,0 +1,14 @@
+@import url('https://github.com/Eclipseisrixxyy/dark-eddited/new/main');
+
+:root {
+    --darkplus-bg: #000f;
+    --darkplus-bg2: #000000;
+    --darkplus-sec: #ffffff;
+    --darkplus-links: #000f;
+    --watermark-filter-invert: 0%;
+    --watermark-filter-sepia: 50%;
+    --watermark-filter-saturate: 3000%;
+    --watermark-filter-hue-rotate: 210deg;
+    --watermark-filter-brightness: 70%;
+    --watermark-filter-contrast: 0%;
+}
